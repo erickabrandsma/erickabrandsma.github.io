@@ -72,7 +72,7 @@ explore my work and let's get in touch!"
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
+            - name: Creative
               url: courses/
             - name: Data
               url: data/
@@ -83,24 +83,19 @@ explore my work and let's get in touch!"
             - name: Archive
               url: archive/
     socialIcons:
+        - name: Phone
+          url: location/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/erickabrandsma/
         - name: Resume
           url: cv.pdf
         - name: Email
           url: mailto:ericka.brandsma@outlook.com
-        - name: Location
-          url: location/
         - name: Office Hours
           url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/erickabrandsma
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+
 
     assets:
         disableHLJS: true
