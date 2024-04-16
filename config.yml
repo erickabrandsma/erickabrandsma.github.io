@@ -50,17 +50,24 @@ params:
     profileMode:
           enabled: true
           title: Ericka Brandsma
-          subtitle: "👋 hi, i’m @erickabrandsma |
-👀 i’m interested aritifical intelligence |
-🌱 i’m currently learning to be a better coder |
-💞️ i’m looking to collaborate on a art-driven venture |
-📫 to reach me, check out my contact page! |
-😄 pronouns: she/her |
-⚡ fun fact: I've recently taken up ballet after a 15 year hiatus |
+          subtitle: "👋 hi, i’m @erickabrandsma \n
+
+👀 i’m interested aritifical intelligence \n
+
+🌱 i’m currently learning to be a better coder \n
+
+💞️ i’m looking to collaborate on a art-driven venture \n
+
+📫 to reach me, check out my contact page! \n
+
+😄 pronouns: she/her \n
+
+⚡ fun fact: I've recently taken up ballet after a 15 year hiatus\n
+
 explore my work and get in touch!"
           imageUrl: "picture.jpeg"
           imageWidth: 140
-          imageHeight: 280
+          imageHeight: 200
           imageTitle: My pfp
           buttons:
             - name: Papers
@@ -76,10 +83,10 @@ explore my work and get in touch!"
             - name: Archive
               url: archive/
     socialIcons:
-        - name: CV
+        - name: Resume
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:ericka.brandsma@outlook.com
         - name: Location
           url: location/
         - name: Office Hours
@@ -102,9 +109,9 @@ explore my work and get in touch!"
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Ericka Brandsma"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 30
 
 markup:
     goldmark:

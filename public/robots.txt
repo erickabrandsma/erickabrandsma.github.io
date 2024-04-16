@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
-Sitemap: https://erickabrandsma.github.io/sitemap.xml
+Disallow: /
+Sitemap: http://localhost:57464/sitemap.xml

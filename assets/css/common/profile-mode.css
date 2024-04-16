@@ -20,7 +20,7 @@
 .profile img {
     display: inline-table;
     border-radius: 50%;
-    border: 1px solid rgb(207, 207, 207);
+    border: 1px solid rgb(243, 189, 210);
 }
 
 .buttons {
@@ -30,10 +30,10 @@
 
 .button {
     background: var(--tertiary);
-    border: 1px solid rgb(207, 207, 207);
+    border: 1px solid rgb(237, 181, 225);
     border-radius: var(--radius);
-    margin: 8px 16px 8px 0px;
-    padding: 6px;
+    margin: 14px 18px 16px 0px;
+    padding: 5px;
     transition: transform 0.1s;
 }
 
