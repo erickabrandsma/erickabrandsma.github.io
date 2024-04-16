@@ -1,5 +1,5 @@
 baseURL: "https://erickabrandsma.github.io" 
-title: Prof. Name
+title: Ericka Brandsma
 paginate: 20
 theme: PaperMod
 
@@ -25,9 +25,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a Project Manager at Column. Description here..."
+    author: Ericka Brandsma
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,8 +49,15 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Ericka Brandsma
+          subtitle: "- 👋 hi, i’m @erickabrandsma
+- 👀 i’m interested aritifical intelligence
+- 🌱 I’m currently learning to be a better coder
+- 💞️ I’m looking to collaborate on a art-driven venture
+- 📫 To reach me, check out my contact page!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I've recently taken up ballet after a 15 year hiatus
+"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
