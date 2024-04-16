@@ -11,17 +11,17 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
-          weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
+        - name: about
           url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
+          weight: 1 
+        - name: work
+          url: papers/
+          weight: 2
+        - name: projects
+          url: courses/
+          weight: 3
+        - name: resume
+          url: cv.pdf
           weight: 4
 
 params:
@@ -85,18 +85,16 @@ explore my work and let's get in touch!"
     socialIcons:
         - name: Phone
           url: location/
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/erickabrandsma/
-        - name: Resume
-          url: cv.pdf
         - name: Email
           url: mailto:ericka.brandsma@outlook.com
-        - name: Office Hours
-          url: officehours/
-        - name: GitHub
-          url: https://github.com/erickabrandsma
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/erickabrandsma/
         - name: Instagram
           url: https://www.instagram.com/erickabrandsma/
+        - name: GitHub
+          url: https://github.com/erickabrandsma
+        - name: Resume
+          url: cv.pdf
 
 
     assets:

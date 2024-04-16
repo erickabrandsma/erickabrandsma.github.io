@@ -1,78 +1,47 @@
 ---
 title: $${\color{pink}more\space about\space me}$$ 
-date: 2023-09-07
-tags: ["keyword 5","keyword 6","keyword 7","keyword 10"]
-author: ["Author Name 1", "Author Name 2", "Author Name 3"]
+date: 2024-04-07
+tags: ["about","education","professional","resume"]
+author: ["multi-faceted", "ever-evoloving", "creative"]
 description: "This dataset contains things."
-summary: "This dataset contains information on things in several countries."
+summary: "what i do, what i've done and what i hope to do! click to read... "
 # cover:
     # image: "/data1.png"
     # alt: "Figure caption"
     # relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/squareroot-uv"
-    Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
 
----
-
-## Overview
-
-The dataset contains information on this and that in various contries. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
+## what i do
+#### professional + personal
+I'm currently a Project Manager at Column, a civic tech startup building technology to improve the utility of public interest information. We are building technology to improve the utility of public interest information, beginning with public notice.<br>
 
-## Download
-
-+ [Dataset: Country 1](https://github.com/pmichaillat/stimulus-spending)
-+ [Dataset: Country 2](https://github.com/pmichaillat/wunk)
-+ [Dataset: Country 3](https://github.com/pmichaillat/pricing-with-fairness)
+ I work remotely and have loved spending the last few years living in a variety of cities from New York City to Honolulu to Portland. In my free time, I love challenging myself with new skills and rediscovering old passions including ballet, climbing, and creating art *(be sure to check out my art page)*!
 
 
 ---
 
-## Source of data
+## what i've done 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### professional + personal
 
----
+Prior to Column, i cut my teeth at larger organizations in a variety of industries and functional areas through internships at the Federal Reserve Bank of Chicago, Aon, and the Einstein Project.
++ [download my resume here!](https://github.com/pmichaillat/stimulus-spending)
 
-## Description of variables
+Check out some of the personal projects I'm most proud of in the Projects tab. [And just for fun, check out my feature in the Green Bay Press-Gazette as a high school senior. *An ode to the glory days!*](https://www.greenbaypressgazette.com/story/news/education/2017/05/28/ericka-brandsma-green-bay-preble-high-school/101555918/)
 
-+ Lorem ipsum dolor sit amet
-+ consectetur adipisicing elit
-+ sed do eiusmod
-+ tempor incididunt ut labore et dolore magna aliqua
-+ Ut enim ad minim veniam
-+ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+#### education 
+
+University of Wisconsin - Madison:  Mathematics (B.S), Economics (B.S)  <br>
+[*VP of largest Economics student organization on campus, Mock Trial National Qualifier*]
+
+Green Bay Preble High School <br>
+[*Class Preisdent, Varisty Soccer Captain*]
 
 ---
 
-## Using the data with software 1
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-## Using the data with software 2
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## what i hope to do
+<span style="color: #DD9EC6; font-family: Sans Serif; font-size: 1em;">Coming soon ... </span>
