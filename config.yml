@@ -50,18 +50,18 @@ params:
     profileMode:
           enabled: true
           title: Ericka Brandsma
-          subtitle: "- 👋 hi, i’m @erickabrandsma \n
-- 👀 i’m interested aritifical intelligence \n
-- 🌱 I’m currently learning to be a better coder \n
-- 💞️ I’m looking to collaborate on a art-driven venture \n
-- 📫 To reach me, check out my contact page! \n
-- 😄 Pronouns: she/her \n
-- ⚡ Fun fact: I've recently taken up ballet after a 15 year hiatus\n
-Explore my work and get in touch!"
+          subtitle: "👋 hi, i’m @erickabrandsma \n
+👀 i’m interested aritifical intelligence \n
+🌱 i’m currently learning to be a better coder \n
+💞️ i’m looking to collaborate on a art-driven venture \n
+📫 to reach me, check out my contact page! \n
+😄 pronouns: she/her \n
+⚡ fun fact: I've recently taken up ballet after a 15 year hiatus\n
+explore my work and get in touch!"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: My pfp
           buttons:
             - name: Papers
               url: papers/
