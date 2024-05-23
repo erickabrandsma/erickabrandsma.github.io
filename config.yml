@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: about
-          url: data/
+          url: data/data1/
           weight: 1 
         - name: work
           url: papers/
@@ -29,7 +29,7 @@ params:
     author: Ericka Brandsma
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: light 
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -52,19 +52,16 @@ params:
           title: Ericka Brandsma
           subtitle: "👋 hi, i’m @erickabrandsma \n
 
-👀 i’m interested aritifical intelligence \n
+👀 project manager by day, social scientist and mathematcian by training, and creative at heart\n
 
-🌱 i’m currently learning to be a better coder \n
+🌱 looking to work at the intersection of large language models and economics 
+\n
 
-💞️ i’m looking to collaborate on a art-driven venture \n
+💞️ open to collaborating on a art-driven venture \n
 
-📫 to reach me, check out my contact page! \n
+⚡ explore my work and let's get in touch! \n
 
-😄 pronouns: she/her \n
-
-⚡ fun fact: I've recently taken up ballet after a 15 year hiatus\n
-
-explore my work and let's get in touch!"
+"
           imageUrl: "picture.jpeg"
           imageWidth: 140
           imageHeight: 200
