@@ -6,8 +6,8 @@ author: "June 2021"
 description: "This paper shows things. Published in Journal Name, 2012." 
 summary: "Summary of my various internships during college." 
 cover:
-    image: "aon.png"
-    alt: "Image caption"
+    image: "aon2.png"
+    alt: "Image caption 1"
     relative: false
 
 editPost:
