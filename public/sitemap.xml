@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/courses/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/courses/course1/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal-website/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/project/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/data/data1/</loc>
     <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,32 +32,14 @@
     <loc>http://localhost:1313/tags/education/</loc>
     <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/professional/</loc>
     <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resume/</loc>
     <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/courses/course1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/courses/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/keyword-1/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/keyword-2/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/keyword-3/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/keyword-4/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
@@ -53,16 +53,22 @@
     <loc>http://localhost:1313/papers/paper2/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/course2/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/keyword-5/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/keyword-6/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/courses/course2/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/papers/paper1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/keyword-1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/keyword-3/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/location/</loc>

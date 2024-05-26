@@ -1,50 +1,32 @@
 ---
-title: "artwork"
-date: 2022-03-10
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Prof. Name"
-description: "This graduate course presents things." 
-summary: "make people Touch and Taste and KNOW. make people Feel! Feel! Feel! 
-" 
+title: "I built my own personal website!"
+date: 2024-05-10
+tags: ["Personal Website","Project"]
+author: "Ericka Brandsma"
+description: "Personal Website"  
+summary: "I'm no web designer, but with the help of the a forked repository, Claude AI and a hundred or so hours of work, I have my own website - free of hosting charges! Here's how I did it and how you can too."
 cover:
-    image: "course1.png"
+    image: "personalwebsite.png"
     alt: "Figure caption"
     relative: false
 editPost:
     URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
     Text: "YouTube playlist"
-showToc: true
+showToc: false
 disableAnchoredHeadings: false
 
 ---
 
-## introduction
+#### Why should you create your own personal website?
+Throughout life, people do a lot of amazing things... rarely we have a place to collect our accomplishments or share them with others are ours discretion. I decided to make my own website after seeing so many of my personal mentors and role models have their own websites. Check out some cool personal websites I came across while building my own:
++ 
 
-make people Touch and Taste and KNOW. make people Feel! Feel! Feel! 
+#### How to (easier than you think): 
+
+The first thing you might notice is the domain name "erickbrandsma.github.io"; this is a static webpage hosted on Github which means there aren't any domain name hosting fees and completely customizable. 
 
 
 
----
-
-## Part 1
-
-This section reviews things.
-
-##### Lecture videos
 
 1. [Video Title 1](https://youtu.be/0rbmjemhy38)
-
-##### Lecture notes
-
-+ [Lecture Note Title 1](lecture1.pdf)
-
-
-+ [Paper Title 3](https://doi.org/10.1093/qje/qjv006) – This paper reviews more things and derives some results.
-
-
----
-
-## Part 2
-
-This section introduces other things.
-
+____
