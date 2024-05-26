@@ -6,7 +6,16 @@
     <description>Recent content on Ericka Brandsma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I built my own personal website!</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>Personal Website</description>
+    </item>
+    
     <item>
       <title>$${\color{pink}hello\space there!} $$</title>
       <link>http://localhost:1313/data/data1/</link>
@@ -14,15 +23,6 @@
       
       <guid>http://localhost:1313/data/data1/</guid>
       <description>This dataset contains things.</description>
-    </item>
-    
-    <item>
-      <title>artwork</title>
-      <link>http://localhost:1313/courses/course1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/courses/course1/</guid>
-      <description>This graduate course presents things.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Course Title 2</title>
+      <title>My first publication, Blockchain-Based Distributed Computing in Scientific Research</title>
       <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
