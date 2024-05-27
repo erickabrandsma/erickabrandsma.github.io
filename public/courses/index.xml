@@ -25,5 +25,14 @@
       <description>This undergraduate course presents many new things.</description>
     </item>
     
+    <item>
+      <title>Stanford Institute for Economic Policy Research Public Health Research</title>
+      <link>http://localhost:1313/course/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/course/</guid>
+      <description>Course description for search engines (less than 155 characters)</description>
+    </item>
+    
   </channel>
 </rss>

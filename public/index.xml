@@ -35,12 +35,21 @@
     </item>
     
     <item>
-      <title>My first publication, Blockchain-Based Distributed Computing in Scientific Research</title>
+      <title>Distributed Computing Research and My Resulting Publication</title>
       <link>http://localhost:1313/courses/course2/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/courses/course2/</guid>
       <description>This undergraduate course presents many new things.</description>
+    </item>
+    
+    <item>
+      <title>Stanford Institute for Economic Policy Research Public Health Research</title>
+      <link>http://localhost:1313/course/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/course/</guid>
+      <description>Course description for search engines (less than 155 characters)</description>
     </item>
     
     <item>
