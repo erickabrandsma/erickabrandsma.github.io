@@ -6,7 +6,7 @@ author: ["Ericka Brandsma"]
 description: "This undergraduate course presents many new things." 
 summary:  "My 2021 publication for the Nicholas Center fo r Corporate Finance & Investment Banking titled, 'Blockchain-Based Distributed Computing in Scientific Research.'"  
 cover:
-    image: ""
+    image: "course2.png"
     alt: "Figure caption"
     relative: false
 editPost:

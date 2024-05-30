@@ -10,8 +10,8 @@ cover:
     alt: "Figure caption"
     relative: false
 editPost:
-    URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
-    Text: "YouTube playlist"
+    URL: "https://pascalmichaillat.org/d5/#archetypes"
+    Text: "Hugo Template"
 showToc: false
 disableAnchoredHeadings: false
 

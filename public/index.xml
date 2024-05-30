@@ -28,10 +28,19 @@
     <item>
       <title>Project Manager - Column Software, PBC</title>
       <link>http://localhost:1313/papers/paper2/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/papers/paper2/</guid>
       <description>This paper shows other things. Published in Journal Name, 2015.</description>
+    </item>
+    
+    <item>
+      <title>Elected Board Member - Wisconsin Economics Young Alumni Council </title>
+      <link>http://localhost:1313/paper/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/paper/</guid>
+      <description>Paper description for search engines (less than 155 characters)</description>
     </item>
     
     <item>
@@ -44,9 +53,9 @@
     </item>
     
     <item>
-      <title>Stanford Institute for Economic Policy Research Public Health Research</title>
+      <title>Covid-19 Research in Partnership with the Stanford Institute for Economic Policy Research</title>
       <link>http://localhost:1313/course/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/course/</guid>
       <description>Course description for search engines (less than 155 characters)</description>
