@@ -25,5 +25,14 @@
       <description>This undergraduate course presents many new things.</description>
     </item>
     
+    <item>
+      <title>Covid-19 Research in Partnership with the Stanford Institute for Economic Policy Research</title>
+      <link>http://localhost:1313/course/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/course/</guid>
+      <description>Course description for search engines (less than 155 characters)</description>
+    </item>
+    
   </channel>
 </rss>

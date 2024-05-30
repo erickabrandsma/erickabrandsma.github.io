@@ -1,19 +1,15 @@
 ---
 title: "Project Manager - Column Software, PBC" 
-date: 2021-12-01 
+date: 2024-05-02 
 tags: ["Project Manager","keyword 2","keyword 4"]
-author: ["Project Manager"]
+author: ["Ericka Brandsma"]
 description: "This paper shows other things. Published in Journal Name, 2015." 
-summary: "2021-2024" 
+summary: "Click here to learn more about my time at Column (or for some killer headshots)." 
 cover:
     images:
     image: "column.png"
     alt: "Image caption"
     relative: false
-
-editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
 
 ---
 
@@ -27,13 +23,15 @@ editPost:
 
 ---
 Timeline and Notable Achievments at Column:
-+ Nov. 2021 - Joined Column 
-+ I was an Implementation Engineer for 7 months before being promoted to a Project Manager.
-    * ###### As an Implementation Engineer, I refined my HTML and JavaScript skills, and learned how to build Typeforms and use Zapier.
-+ [I was the lead Project Manager overseeing Column's first ever acquisition](https://www.prnewswire.com/news-releases/column-announces-acquisition-of-modulist-expanding-platform-of-local-transactions-302032353.html)
++ *Nov. 2021* - I joined Column as an Implementation Engineer and was their 33rd hire. 
++ *Jul. 2022* - As the team approached 50, I was promoted to be a founding member of the project management team and helped build the team from scratch.
++ *Aug. 2022* - [Column announces their $33.3M Series A round.](https://www.axios.com/2022/08/09/exclusive-column-raises-30m-expanding-beyond-public-notice)
++ *Jan. 2024* - [Column acquires their first company!](https://www.prnewswire.com/news-releases/column-announces-acquisition-of-modulist-expanding-platform-of-local-transactions-302032353.html) I was the lead Project Manager overseeing the acquisition and transition of internal operations.
++ *Feb. 2024* - I was promoted to Project Manager II.
+
 ---
 ##### My time at Column 
-###### Column was my first full-time role and I got pretty lucky. During my 3 year tenure, I gained a plethora of new skills and scored some great headshots along the way! The photo below is from our offsite in Alta, Utah following the annoucement of our Series A round ($33.3M raised)!
+###### Column was my first full-time role and I got pretty lucky. During my 3 year tenure, I gained a plethora of new skills and scored some great pictures along the way! The photo below is from our offsite in Alta, Utah following the annoucement of our Series A round ($33.3M raised)!
 ![](columnwhole.png) 
 ###### Brainstorming, or posing? Great at the former, getting better at the latter...
 <div class="image-container">
