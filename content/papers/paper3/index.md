@@ -13,51 +13,16 @@ cover:
     alt: "Figure from paper"
     relative: false
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+    URL: "https://econ.wisc.edu/staff/brandsma-ericka/"
+    Text: "WEYAC - My Profile"
 
 ---
+![](uwmad.png) 
+##### Filling up my cup! 
 
----
+Heavily involved with UW-Madison's Economics deparment during my undergraduate years, I was invited and elected to be a part of UW-Madison's Economics Alumni Board. As one of 8 alumni, I advise and engage with departamental intiatives, and provide mentorship for current students. 
 
-##### Download:
+I'm so grateful fo all the opportunities the UW-Madison commumnity afforded me and working with current students truly fills up my cup! 
 
-- [Paper](/paper.pdf)
-- [Online appendix](/appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
-
----
-
-##### Abstract:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure X:  Figure title
-
-![](/figurex.png)
-
----
-
-##### Citation
-
-Author 1, Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
-
-```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title = {Title},
-volume = {Volume},
-year = {Year}}
-```
-
----
-
-##### Related material
-
-+ [Presentation slides](/presentation.pdf)
+<iframe src="https://econ.wisc.edu/staff/brandsma-ericka/
+" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

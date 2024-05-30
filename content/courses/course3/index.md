@@ -21,4 +21,6 @@ showToc: false
 
 "Gripped by the Covid-19 pandemic, I partnered with a team of young researchers to create a policy proposal addressing public health for indigienous peoples in the Amazon."
 
-[View the full policy memorandum here.](https://docs.google.com/document/d/e/2PACX-1vQzfppBAFqVMs4Ra31lqTSfI9EkMs_6cAXOEw4v5MelCfl3cmBWkECydbCIRuHxGh8NVJkP--0yaKGm/pub)
+View the full policy memorandum below.
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQzfppBAFqVMs4Ra31lqTSfI9EkMs_6cAXOEw4v5MelCfl3cmBWkECydbCIRuHxGh8NVJkP--0yaKGm/pub
+" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

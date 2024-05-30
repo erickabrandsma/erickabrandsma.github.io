@@ -10,7 +10,9 @@ cover:
     image: "column.png"
     alt: "Image caption"
     relative: false
-
+editPost:
+    URL: "https://erickabrandsma.github.io/papers/paper1/"
+    Text: "Check out my internships!"
 ---
 
 ---
