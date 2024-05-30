@@ -4,14 +4,14 @@ date: 2024-05-10
 tags: ["Personal Website","Project"]
 author: "Ericka Brandsma"
 description: "Personal Website"  
-summary: "I'm no web designer, but with the help of the a forked repository, Claude AI and a hundred or so hours of work, I have my own website - free of hosting charges! Here's how I did it and how you can too."
+summary: "I'm no web designer, but with the help of a forked repository, Claude AI and a hundred or so hours of work, I have my own website - free of hosting charges! Here's how I did it and how you can too."
 cover:
     image: "personalwebsite.png"
     alt: "Figure caption"
     relative: false
 editPost:
     URL: "https://pascalmichaillat.org/d5/#archetypes"
-    Text: "Hugo Template"
+    Text: "The Hugo Template I Forked"
 showToc: false
 disableAnchoredHeadings: false
 
@@ -25,8 +25,5 @@ Throughout life, people do a lot of amazing things... rarely we have a place to 
 
 The first thing you might notice is the domain name "erickbrandsma.github.io"; this is a static webpage hosted on Github which means there aren't any domain name hosting fees and completely customizable. 
 
-
-
-
-1. [Video Title 1](https://youtu.be/0rbmjemhy38)
+## 🚧 🏗️ More to come soon...
 ____

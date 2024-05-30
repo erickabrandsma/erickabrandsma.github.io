@@ -62,15 +62,6 @@
     </item>
     
     <item>
-      <title>Internships: Federal Reserve Bank of Chicago, Aon, The Einstein Project</title>
-      <link>http://localhost:1313/papers/paper1/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/papers/paper1/</guid>
-      <description>This paper shows things. Published in Journal Name, 2012.</description>
-    </item>
-    
-    <item>
       <title>$${\color{pink}Let&#39;s\space get\space in\space touch!}$$</title>
       <link>http://localhost:1313/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,6 +70,15 @@
       <description>Mailing and office addresses at the University of Place.</description>
     </item>
     
+    
+    <item>
+      <title>Internships: Federal Reserve Bank of Chicago, Aon, The Einstein Project</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>Internships</description>
+    </item>
     
   </channel>
 </rss>
