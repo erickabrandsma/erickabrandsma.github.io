@@ -23,7 +23,6 @@ menu:
         - name: resume
           url: cv.pdf
           weight: 4
-
 params:
     description: "I am a Project Manager at Column. Description here..."
     author: Ericka Brandsma
