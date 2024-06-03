@@ -24,7 +24,7 @@ menu:
           url: cv.pdf
           weight: 4
 params:
-    description: "I am a Project Manager at Column. Description here..."
+    description: "My bio"
     author: Ericka Brandsma
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
