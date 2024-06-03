@@ -29,7 +29,6 @@ Timeline and Notable Achievments at Column:
 + *Jul. 2022* - As the team approached 50, I was promoted to be a founding member of the project management team and helped build the team from scratch.
 + *Aug. 2022* - [Column announces their $33.3M Series A round.](https://www.axios.com/2022/08/09/exclusive-column-raises-30m-expanding-beyond-public-notice)
 + *Jan. 2024* - [Column acquires their first company!](https://www.prnewswire.com/news-releases/column-announces-acquisition-of-modulist-expanding-platform-of-local-transactions-302032353.html) I was the lead Project Manager overseeing the acquisition and transition of internal operations.
-+ *Feb. 2024* - I was promoted to Project Manager II.
 
 ---
 ##### My time at Column 
@@ -70,7 +69,7 @@ Timeline and Notable Achievments at Column:
 ###### I've never worked with a more talented group of technologists, builders and storytellers. 
 <div class="image-container">
   <img src="miami.jpg" alt="miami team" class="responsive-image">
-  <img src="miamiheadshot.jpg" alt="miami Headshot" class="responsive-image">
+  <img src="mymiamiheadshot.jpg" alt="miami Headshot" class="responsive-image">
 </div>
 
 <style>
