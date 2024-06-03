@@ -20,7 +20,6 @@ disableAnchoredHeadings: false
 "Distributed Ledger Computing Technology in Scientific Research", published 2020. 
 
 View my publication for the Nicholas Center for Corporate Finance & Investment Banking below.
-<iframe src="https://www.linkedin.com/feed/update/urn:li:activity:6671807024570912768/
-" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6671807023618813952?compact=1" allowfullscreen></iframe>
 
 ---
