@@ -70,7 +70,7 @@ Timeline and Notable Achievments at Column:
 ###### I've never worked with a more talented group of technologists, builders and storytellers. 
 <div class="image-container">
   <img src="miami.jpg" alt="miami team" class="responsive-image">
-  <img src="miamiheadshot.jpg" alt="miami headshot" class="responsive-image">
+  <img src="miamiheadshot.jpg" alt="miami Headshot" class="responsive-image">
 </div>
 
 <style>
