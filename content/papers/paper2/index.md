@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [My Resume](cv.pdf)
++ [My Resume](myresume.pdf)
 + [Column Homepage](https://www.column.us/)
 
 
@@ -36,9 +36,9 @@ Timeline and Notable Achievments at Column:
 ![](columnwhole.png) 
 ###### Brainstorming, or posing? Great at the former, getting better at the latter...
 <div class="image-container">
-  <img src="altaheadshot.png" alt="Alta Headshot" class="responsive-image">
+  <img src="myaltaheadshot.jpg" alt="Alta Headshot" class="responsive-image">
   <img src="mountain.png" alt="Mountain Png" class="responsive-image">
-    <img src="listening.jpg" alt="Listening Headshot" class="responsive-image">
+    <img src="imlisten.jpg" alt="Listening Headshot" class="responsive-image">
 </div>
 
 <style>
@@ -68,7 +68,7 @@ Timeline and Notable Achievments at Column:
 </style>
 ###### I've never worked with a more talented group of technologists, builders and storytellers. 
 <div class="image-container">
-  <img src="miami.jpg" alt="miami team" class="responsive-image">
+  <img src="miamiteam.jpg" alt="miami team" class="responsive-image">
   <img src="mymiamiheadshot.jpg" alt="miami Headshot" class="responsive-image">
 </div>
 

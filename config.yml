@@ -21,7 +21,7 @@ menu:
           url: courses/
           weight: 3
         - name: resume
-          url: cv.pdf
+          url: papers/paper2/myresume.pdf
           weight: 4
 params:
     description: "My bio"
@@ -73,11 +73,9 @@ params:
             - name: projects
               url: courses/
             - name: resume
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+              url: myresume.pdf
+            - name: contact me! 
+              url: location/
     socialIcons:
         - name: Phone
           url: location/
@@ -90,7 +88,7 @@ params:
         - name: GitHub
           url: https://github.com/erickabrandsma
         - name: Resume
-          url: cv.pdf
+          url: myresume.pdf
 
 
     assets:
