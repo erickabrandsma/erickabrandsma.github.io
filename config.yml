@@ -1,6 +1,7 @@
 baseURL: "https://erickabrandsma.github.io" 
 title: Ericka Brandsma
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
