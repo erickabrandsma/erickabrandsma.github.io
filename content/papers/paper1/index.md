@@ -1,6 +1,6 @@
 ---
 title: "Internships: Federal Reserve Bank of Chicago, Aon, The Einstein Project" 
-date: 2020-06xx-01
+date: 2020-06-01
 author: "Ericka Brandsma"
 description: "Internships" 
 summary: "Summary of my various internships during college." 
