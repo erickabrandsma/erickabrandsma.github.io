@@ -22,7 +22,7 @@ menu:
           url: courses/
           weight: 3
         - name: resume
-          url: papers/paper2/myresume.pdf
+          url: /myresume.pdf
           weight: 4
 params:
     description: "My bio"

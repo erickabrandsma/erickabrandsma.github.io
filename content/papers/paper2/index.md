@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [My Resume](myresume.pdf)
++ [My Resume](/myresume.pdf)
 + [Column Homepage](https://www.column.us/)
 
 
